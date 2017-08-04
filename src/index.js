@@ -9,6 +9,6 @@ class Comp extends React.Component {
 }
 
 render(
-    <Comp name="Lub"/>,
+    <Comp name="Lubmir"/>,
     document.getElementById('container')
 );
